@@ -10,6 +10,9 @@
 <br/>
 <p>Website developper and Software Engineer. I try anything as long I have fun !</p>
 <br />
+
+- 🔭 I’m currently working on ... Typescript & React & VueJS & TailwindCSS
+- 📫 How to reach me: [Twitter](https://twitter.com/vlav98), [Linkedin](https://www.linkedin.com/in/valentine-lav/)
   <!--
 **vlav98/vlav98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
